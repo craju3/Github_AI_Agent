@@ -1,0 +1,8 @@
+# Ignore virtual environment
+virenv/
+# Ignore Python cache files
+__pycache__/
+# Ignore environment variables file
+.env
+# Ignore text files (optional)
+notes.txt
